@@ -1,0 +1,34 @@
+{
+  "quizzes": [
+    {
+      "title": "Quiz 1",
+      "questions": [
+        {
+          "question": "What is the capital of France?",
+          "options": ["Paris", "London", "Berlin", "Madrid"],
+          "answer": "Paris"
+        },
+        {
+          "question": "Who painted the Mona Lisa?",
+          "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+          "answer": "Leonardo da Vinci"
+        }
+      ]
+    },
+    {
+      "title": "Quiz 2",
+      "questions": [
+        {
+          "question": "What is the largest planet in our solar system?",
+          "options": ["Jupiter", "Saturn", "Mars", "Earth"],
+          "answer": "Jupiter"
+        },
+        {
+          "question": "What is the symbol for the chemical element iron?",
+          "options": ["Fe", "Ir", "In", "I"],
+          "answer": "Fe"
+        }
+      ]
+    }
+  ]
+}
